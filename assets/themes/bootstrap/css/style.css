@@ -1,0 +1,9 @@
+.chart {
+  margin-top: 1em;
+  display: block;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+.chart-container {
+  padding-top: 1em;
+}
